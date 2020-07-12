@@ -44,3 +44,4 @@ public class Part1 {
     Part1 p = new Part1();
     p.testSimpleGene();
   }
+}
