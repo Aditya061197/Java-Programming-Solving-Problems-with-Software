@@ -8,4 +8,5 @@ Some code uses custom libraries which you can find only in the custom BlueJ envi
 
 <hr>
 
-I am still learning the course. I will keep uploading the code as I finish each week and will also put up a link to the certificate upon completion. Hope this helps, thank you!
+I completed this course within five days, owing to the extra time I have due to the lockdown. The link to the certificate is <a href="https://coursera.org/share/119b568a399d76cae31d772015f4cbc8">here</a>.
+This was a great course for introductory level programming and I recommend everyone to enrol in it. Hope this helps, thanks!
